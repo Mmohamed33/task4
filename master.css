@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfits;
+    font-size: 15px; 
+     display: grid;
+     place-items: center;
+     min-height: 100vh;
+    
+}
+.c2{
+    background-color:hsl(0, 0%, 100%);
+    display: inline-block;
+    text-align: center ;
+  
+    width: 400px;
+    border-radius: 10px;
+} 
+.c1{
+    
+     background-color: hsl(0,0%,100%);
+     max-width: 320px;
+     padding: 20px;
+     border-radius: 20px;
+}
+
+
+
+.imgs{
+      max-width: 100%;
+      height: auto;
+      text-align: center;
+    
+}
